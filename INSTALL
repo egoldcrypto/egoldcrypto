@@ -1,0 +1,9 @@
+Building Egoldcrypto
+
+See doc/readme-qt.rst for instructions on building Egoldcrypto QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Egoldcrypto.
+
+See doc/build-*.txt for instructions on building egoldcryptod,
+the intended-for-services, no-graphical-interface, reference
+implementation of Egoldcrypto.
